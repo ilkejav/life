@@ -1,17 +1,15 @@
 {
-  "July_01_2016": {
-    "weekday": "Wednesday",
-    "wake": "12:15",
-    "sleep": "15:15"
+  "July_18_2016": {
+    "weekday": "Monday",
+    "wake": "12:00",
+    "sleep": "03:00"
   },
   "July_19_2016": {
-    "weekday": "Wednesday",
-    "wake": "12:15",
-    "sleep": "15:15"
+    "weekday": "Tuesday",
+    "wake": "11:15",
+    "sleep": "02:45"
   },
   "July_20_2016": {
-    "weekday": "Wednesday",
-    "wake": "14:53",
-    "sleep": "15:34"
+    "weekday": "Wednesday"
   }
 }
