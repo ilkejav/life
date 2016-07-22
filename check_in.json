@@ -10,6 +10,12 @@
     "sleep": "02:45"
   },
   "July_20_2016": {
-    "weekday": "Wednesday"
+    "weekday": "Wednesday",
+    "wake": "12:15",
+    "sleep": "03:15"
+  },
+  "July_21_2016": {
+    "weekday": "Thursday",
+    "wake": "12:15"
   }
 }
